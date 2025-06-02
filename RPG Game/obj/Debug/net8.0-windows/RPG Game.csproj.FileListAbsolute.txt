@@ -1,0 +1,69 @@
+C:\Users\eronb\source\repos\RPG Game\RPG Game\bin\Debug\net8.0-windows\RPG Game.exe
+C:\Users\eronb\source\repos\RPG Game\RPG Game\bin\Debug\net8.0-windows\RPG Game.deps.json
+C:\Users\eronb\source\repos\RPG Game\RPG Game\bin\Debug\net8.0-windows\RPG Game.runtimeconfig.json
+C:\Users\eronb\source\repos\RPG Game\RPG Game\bin\Debug\net8.0-windows\RPG Game.dll
+C:\Users\eronb\source\repos\RPG Game\RPG Game\bin\Debug\net8.0-windows\RPG Game.pdb
+C:\Users\eronb\source\repos\RPG Game\RPG Game\obj\Debug\net8.0-windows\RPG_Game.Form1.resources
+C:\Users\eronb\source\repos\RPG Game\RPG Game\obj\Debug\net8.0-windows\RPG Game.csproj.GenerateResource.cache
+C:\Users\eronb\source\repos\RPG Game\RPG Game\obj\Debug\net8.0-windows\RPG Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eronb\source\repos\RPG Game\RPG Game\obj\Debug\net8.0-windows\RPG Game.AssemblyInfoInputs.cache
+C:\Users\eronb\source\repos\RPG Game\RPG Game\obj\Debug\net8.0-windows\RPG Game.AssemblyInfo.cs
+C:\Users\eronb\source\repos\RPG Game\RPG Game\obj\Debug\net8.0-windows\RPG Game.csproj.CoreCompileInputs.cache
+C:\Users\eronb\source\repos\RPG Game\RPG Game\obj\Debug\net8.0-windows\RPG Game.dll
+C:\Users\eronb\source\repos\RPG Game\RPG Game\obj\Debug\net8.0-windows\refint\RPG Game.dll
+C:\Users\eronb\source\repos\RPG Game\RPG Game\obj\Debug\net8.0-windows\RPG Game.pdb
+C:\Users\eronb\source\repos\RPG Game\RPG Game\obj\Debug\net8.0-windows\RPG Game.genruntimeconfig.cache
+C:\Users\eronb\source\repos\RPG Game\RPG Game\obj\Debug\net8.0-windows\ref\RPG Game.dll
+C:\Users\drago\Source\Repos\RPG-Game-Checkpoint-1\RPG Game\RPG Game\bin\Debug\net8.0-windows\RPG Game.exe
+C:\Users\drago\Source\Repos\RPG-Game-Checkpoint-1\RPG Game\RPG Game\bin\Debug\net8.0-windows\RPG Game.deps.json
+C:\Users\drago\Source\Repos\RPG-Game-Checkpoint-1\RPG Game\RPG Game\bin\Debug\net8.0-windows\RPG Game.runtimeconfig.json
+C:\Users\drago\Source\Repos\RPG-Game-Checkpoint-1\RPG Game\RPG Game\bin\Debug\net8.0-windows\RPG Game.dll
+C:\Users\drago\Source\Repos\RPG-Game-Checkpoint-1\RPG Game\RPG Game\bin\Debug\net8.0-windows\RPG Game.pdb
+C:\Users\drago\Source\Repos\RPG-Game-Checkpoint-1\RPG Game\RPG Game\obj\Debug\net8.0-windows\RPG_Game.Form1.resources
+C:\Users\drago\Source\Repos\RPG-Game-Checkpoint-1\RPG Game\RPG Game\obj\Debug\net8.0-windows\RPG Game.csproj.GenerateResource.cache
+C:\Users\drago\Source\Repos\RPG-Game-Checkpoint-1\RPG Game\RPG Game\obj\Debug\net8.0-windows\RPG Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\Source\Repos\RPG-Game-Checkpoint-1\RPG Game\RPG Game\obj\Debug\net8.0-windows\RPG Game.AssemblyInfoInputs.cache
+C:\Users\drago\Source\Repos\RPG-Game-Checkpoint-1\RPG Game\RPG Game\obj\Debug\net8.0-windows\RPG Game.AssemblyInfo.cs
+C:\Users\drago\Source\Repos\RPG-Game-Checkpoint-1\RPG Game\RPG Game\obj\Debug\net8.0-windows\RPG Game.csproj.CoreCompileInputs.cache
+C:\Users\drago\Source\Repos\RPG-Game-Checkpoint-1\RPG Game\RPG Game\obj\Debug\net8.0-windows\RPG Game.sourcelink.json
+C:\Users\drago\Source\Repos\RPG-Game-Checkpoint-1\RPG Game\RPG Game\obj\Debug\net8.0-windows\RPG Game.dll
+C:\Users\drago\Source\Repos\RPG-Game-Checkpoint-1\RPG Game\RPG Game\obj\Debug\net8.0-windows\refint\RPG Game.dll
+C:\Users\drago\Source\Repos\RPG-Game-Checkpoint-1\RPG Game\RPG Game\obj\Debug\net8.0-windows\RPG Game.pdb
+C:\Users\drago\Source\Repos\RPG-Game-Checkpoint-1\RPG Game\RPG Game\obj\Debug\net8.0-windows\RPG Game.genruntimeconfig.cache
+C:\Users\drago\Source\Repos\RPG-Game-Checkpoint-1\RPG Game\RPG Game\obj\Debug\net8.0-windows\ref\RPG Game.dll
+C:\Users\eronb\Source\Repos\RPG_checkpoint3\RPG Game\bin\Debug\net8.0-windows\RPG Game.exe
+C:\Users\eronb\Source\Repos\RPG_checkpoint3\RPG Game\bin\Debug\net8.0-windows\RPG Game.deps.json
+C:\Users\eronb\Source\Repos\RPG_checkpoint3\RPG Game\bin\Debug\net8.0-windows\RPG Game.runtimeconfig.json
+C:\Users\eronb\Source\Repos\RPG_checkpoint3\RPG Game\bin\Debug\net8.0-windows\RPG Game.dll
+C:\Users\eronb\Source\Repos\RPG_checkpoint3\RPG Game\bin\Debug\net8.0-windows\RPG Game.pdb
+C:\Users\eronb\Source\Repos\RPG_checkpoint3\RPG Game\obj\Debug\net8.0-windows\RPG_Game.Form1.resources
+C:\Users\eronb\Source\Repos\RPG_checkpoint3\RPG Game\obj\Debug\net8.0-windows\RPG Game.csproj.GenerateResource.cache
+C:\Users\eronb\Source\Repos\RPG_checkpoint3\RPG Game\obj\Debug\net8.0-windows\RPG Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eronb\Source\Repos\RPG_checkpoint3\RPG Game\obj\Debug\net8.0-windows\RPG Game.AssemblyInfoInputs.cache
+C:\Users\eronb\Source\Repos\RPG_checkpoint3\RPG Game\obj\Debug\net8.0-windows\RPG Game.AssemblyInfo.cs
+C:\Users\eronb\Source\Repos\RPG_checkpoint3\RPG Game\obj\Debug\net8.0-windows\RPG Game.csproj.CoreCompileInputs.cache
+C:\Users\eronb\Source\Repos\RPG_checkpoint3\RPG Game\obj\Debug\net8.0-windows\RPG Game.sourcelink.json
+C:\Users\eronb\Source\Repos\RPG_checkpoint3\RPG Game\obj\Debug\net8.0-windows\RPG Game.dll
+C:\Users\eronb\Source\Repos\RPG_checkpoint3\RPG Game\obj\Debug\net8.0-windows\refint\RPG Game.dll
+C:\Users\eronb\Source\Repos\RPG_checkpoint3\RPG Game\obj\Debug\net8.0-windows\RPG Game.pdb
+C:\Users\eronb\Source\Repos\RPG_checkpoint3\RPG Game\obj\Debug\net8.0-windows\RPG Game.genruntimeconfig.cache
+C:\Users\eronb\Source\Repos\RPG_checkpoint3\RPG Game\obj\Debug\net8.0-windows\ref\RPG Game.dll
+C:\Users\eronb\Source\Repos\RPG_checkpoint3\RPG Game\obj\Debug\net8.0-windows\RPG_Game.IntroForm.resources
+C:\Users\drago\source\repos\RPG-Game-FINAL\RPG Game\RPG Game\bin\Debug\net8.0-windows\RPG Game.exe
+C:\Users\drago\source\repos\RPG-Game-FINAL\RPG Game\RPG Game\bin\Debug\net8.0-windows\RPG Game.deps.json
+C:\Users\drago\source\repos\RPG-Game-FINAL\RPG Game\RPG Game\bin\Debug\net8.0-windows\RPG Game.runtimeconfig.json
+C:\Users\drago\source\repos\RPG-Game-FINAL\RPG Game\RPG Game\bin\Debug\net8.0-windows\RPG Game.dll
+C:\Users\drago\source\repos\RPG-Game-FINAL\RPG Game\RPG Game\bin\Debug\net8.0-windows\RPG Game.pdb
+C:\Users\drago\source\repos\RPG-Game-FINAL\RPG Game\RPG Game\obj\Debug\net8.0-windows\RPG_Game.Form1.resources
+C:\Users\drago\source\repos\RPG-Game-FINAL\RPG Game\RPG Game\obj\Debug\net8.0-windows\RPG_Game.IntroForm.resources
+C:\Users\drago\source\repos\RPG-Game-FINAL\RPG Game\RPG Game\obj\Debug\net8.0-windows\RPG Game.csproj.GenerateResource.cache
+C:\Users\drago\source\repos\RPG-Game-FINAL\RPG Game\RPG Game\obj\Debug\net8.0-windows\RPG Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drago\source\repos\RPG-Game-FINAL\RPG Game\RPG Game\obj\Debug\net8.0-windows\RPG Game.AssemblyInfoInputs.cache
+C:\Users\drago\source\repos\RPG-Game-FINAL\RPG Game\RPG Game\obj\Debug\net8.0-windows\RPG Game.AssemblyInfo.cs
+C:\Users\drago\source\repos\RPG-Game-FINAL\RPG Game\RPG Game\obj\Debug\net8.0-windows\RPG Game.csproj.CoreCompileInputs.cache
+C:\Users\drago\source\repos\RPG-Game-FINAL\RPG Game\RPG Game\obj\Debug\net8.0-windows\RPG Game.sourcelink.json
+C:\Users\drago\source\repos\RPG-Game-FINAL\RPG Game\RPG Game\obj\Debug\net8.0-windows\RPG Game.dll
+C:\Users\drago\source\repos\RPG-Game-FINAL\RPG Game\RPG Game\obj\Debug\net8.0-windows\refint\RPG Game.dll
+C:\Users\drago\source\repos\RPG-Game-FINAL\RPG Game\RPG Game\obj\Debug\net8.0-windows\RPG Game.pdb
+C:\Users\drago\source\repos\RPG-Game-FINAL\RPG Game\RPG Game\obj\Debug\net8.0-windows\RPG Game.genruntimeconfig.cache
+C:\Users\drago\source\repos\RPG-Game-FINAL\RPG Game\RPG Game\obj\Debug\net8.0-windows\ref\RPG Game.dll
